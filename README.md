@@ -4,13 +4,16 @@
 </p>
 <h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
 
-> I'm currently studying computer Science.....
+> "I'm here to put on a show".
 
-## 📩 Connect
+I'm in love with communication and technology. 
+  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. Currently I'm finishing my Computer Science Degree at University of Cadiz. 
+
+  ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
 
 <p align="left" >
-      <a href="mailto:jesuslagaresgalan@gmail.com?Subject=Interesado%20en%20Contactar" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
+      <a href="mailto:jesuslagaresgalan@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="https://www.linkedin.com/in/jesus-lagares/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     <a href="http://instagram.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
     <a href="https://twitter.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
