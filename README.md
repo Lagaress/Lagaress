@@ -1,4 +1,7 @@
 <h2 align="center"> Hi! I'm Jesus Lagares ✨. </h2>
+<p align="center">
+  <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+</p>
 <h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
 
 > I'm currently studying computer Science.....
@@ -6,10 +9,13 @@
 ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
 
-<a href="https://twitter.com/jesuslagares_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jesuslagares_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jesus-lagares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesus-lagares/" height="30" width="40" /></a>
-<a href="http://instagram.com/jesuslagares_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jesuslagares_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Jes%C3%BAsLagares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/jes%c3%baslagares" height="30" width="40" /></a>
+<p align="left" >
+      <a href="mailto:jesuslagaresgalan@gmail.com?Subject=Interesado%20en%20Contactar" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
+        <a href="https://www.linkedin.com/in/jesus-lagares/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+    <a href="http://instagram.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
+    <a href="https://twitter.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
+      <a href="https://www.youtube.com/c/Jes%C3%BAsLagares" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059795-66f4370f-8697-42b5-bcb4-b83ebc10f721.png"  width="45"></a>
+</p>
 
 ## 📋 Current Goals
 - [ ] Learn Flutter. 
