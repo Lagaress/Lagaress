@@ -41,6 +41,7 @@ I'm in love with communication and technology.
 * [UCACybersecurityDay](https://www.youtube.com/watch?v=7ZAitPRk4xs&list=PLAM1cgPEehfj31aWH_5Dtr_jz38xpJVRK&ab_channel=Delegaci%C3%B3ndeEstudiantesESI)
 * [Comunicación Exitosa para Principiantes](https://www.udemy.com/course/comunicacion-exitosa-para-principiantes/)
 * [¿Cómo hablar con tu ordenador? Lenguajes de Programación](https://e4you.org/es/moocs/lenguajes-de-programacion-orientados-ciberseguridad)
+* [Opening Speech for the Capture The Flag of UAD360](https://youtu.be/uLm-e6LE5jQ)
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagaress&show_icons=true&theme=tokyonight)
