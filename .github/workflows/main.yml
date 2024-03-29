@@ -2,7 +2,8 @@ name: Update profile README with the latest YouTube Videos
 
 on:
   schedule:
-    - cron: '0 17 * * 2'
+    # - cron: '0 17 * * 2'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,7 +24,7 @@ jobs:
       - name: Update README with the latest YouTube videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node updateReadmeWithLatestVideos.js
+        run: node ./scripts/updateReadmeWithYoutubeLatestVideos.js
       
       - name: Commit and push if changed
         run: |
