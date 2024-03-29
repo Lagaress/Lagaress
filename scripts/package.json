@@ -1,0 +1,16 @@
+{
+  "name": "Update README with latest YouTube video",
+  "version": "1.0.0",
+  "description": "A script to update personal README with latest Youtube videos",
+  "main": "script.js",
+  "scripts": {
+    "start": "node updateReadmeWithYoutubeLatestVideos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesús Lagares",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^134.0.0"
+  }
+}
