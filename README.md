@@ -44,10 +44,8 @@ I'm in love with communication and technology.
 * [Opening Speech for the Capture The Flag of UAD360](https://youtu.be/uLm-e6LE5jQ)
 
 ## 💻 Youtube 
-* [🖱️ ¿CÓMO FUNCIONA *REALMENTE* JAVASCRIPT? (AST, V8, Compiler...)](https://www.youtube.com/watch?v=wzuoCCQfitM&ab_channel=AlpacaTech)
-* [💻 Te RESUMO INGENIERÍA INFORMÁTICA (en MENOS de 7 MINUTOS)](https://www.youtube.com/watch?v=PUp74s7D97Y&t=1s&ab_channel=AlpacaTech)
-* [▶️ Te explico el METAVERSO (en MENOS DE 7 MINUTOS) ✅](https://www.youtube.com/watch?v=jC2SR8l3Qxs&t=175s&ab_channel=AlpacaTech)
-
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
 * [DALL-E vs DreamStudio: Which AI image generator is better?](https://medium.com/codex/dall-e-vs-dreamstudio-which-ai-image-generator-is-better-c94cdaa9136c)
