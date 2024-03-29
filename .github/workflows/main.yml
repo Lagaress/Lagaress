@@ -2,8 +2,7 @@ name: Update profile README with the latest YouTube Videos
 
 on:
   schedule:
-    # - cron: '0 17 * * 2'
-    - cron: '* * * * *'
+    - cron: '0 17 * * 2'
   workflow_dispatch:
 
 defaults:
