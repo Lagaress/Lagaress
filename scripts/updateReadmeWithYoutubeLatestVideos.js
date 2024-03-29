@@ -62,7 +62,7 @@ function updateReadme(videos) {
     throw new Error('README markers not found or are misconfigured.');
   }
 
-  const updatedReadmeContent = readmeContent.substring(0, startIndex) + '\n' + videos + '\n' + readmeContent.substring(endIndex);
+  const updatedReadmeContent = readmeContent.substring(0, startIndex + START_MARKER.length) + '\n' + videos + '\n' + readmeContent.substring(endIndex);
 
   fs.writeFileSync(README_PATH, updatedReadmeContent);
   console.log('README updated with the latest YouTube videos');
