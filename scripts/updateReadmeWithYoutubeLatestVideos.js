@@ -2,7 +2,7 @@ const { google } = require('googleapis');
 const fs = require('fs');
 const path = require('path');
 
-const API_KEY = process.env.YOUTUBE_API_KEY;
+const API_KEY = process.env.YOUTUBE_API_KEY ?? 'AIzaSyDOlZYlZJ-nJgOCWBSJeykwkA5IlobYbCs';
 const CHANNEL_ID = 'UC_o4yFRlKvFF4on_8TAi6tQ';
 const README_PATH = '../README.md';
 const MAX_RESULTS = 3
@@ -48,12 +48,15 @@ function updateReadme(videos) {
   console.log('Updating README');
 
   const readmeContent = getReadmeContent();
-  const startIndex = readmeContent.indexOf(START_MARKER) + START_MARKER.length;
+  const startIndex = readmeContent.indexOf(START_MARKER);
   const endIndex = readmeContent.indexOf(END_MARKER);
 
-  const hasStartMarker = startIndex <= START_MARKER.length;
-  const hasEndMarker = endIndex > 0;
-  const areMarkersWellPositioned = startIndex < endIndex;
+  const hasStartMarker = startIndex !== -1;
+  const hasEndMarker = endIndex !== -1;
+  const areMarkersWellPositioned =
+    hasStartMarker &&
+    hasEndMarker &&
+    ((startIndex + START_MARKER.length) < endIndex);
 
   if (!hasStartMarker || !hasEndMarker || !areMarkersWellPositioned) {
     throw new Error('README markers not found or are misconfigured.');
