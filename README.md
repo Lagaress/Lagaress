@@ -45,6 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Piensa Como un Programador para Mejorar Tu Vida](https://www.youtube.com/watch?v=Wi5nFJGYfRc)
+[![Piensa Como un Programador para Mejorar Tu Vida](https://i.ytimg.com/vi/Wi5nFJGYfRc/hqdefault.jpg)](https://www.youtube.com/watch?v=Wi5nFJGYfRc)
+### [POLÉMICA DEVIN Explicada por un Desarrollador Profesional](https://www.youtube.com/watch?v=GThWnK-GXT0)
+[![POLÉMICA DEVIN Explicada por un Desarrollador Profesional](https://i.ytimg.com/vi/GThWnK-GXT0/hqdefault.jpg)](https://www.youtube.com/watch?v=GThWnK-GXT0)
+### [En realidad, programar es fácil](https://www.youtube.com/watch?v=q_GcPoan3Wg)
+[![En realidad, programar es fácil](https://i.ytimg.com/vi/q_GcPoan3Wg/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GcPoan3Wg)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
