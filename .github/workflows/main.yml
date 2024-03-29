@@ -20,11 +20,13 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./scripts
 
       - name: Update README with the latest YouTube videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node ./scripts/updateReadmeWithYoutubeLatestVideos.js
+        run: npm start
+        working-directory: ./scripts
       
       - name: Commit and push if changed
         run: |
