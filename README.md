@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [¿Quieres Mejorar Tu LÓGICA DE PROGRAMACIÓN?](https://www.youtube.com/watch?v=hulbbKgctSM)
-[![¿Quieres Mejorar Tu LÓGICA DE PROGRAMACIÓN?](https://i.ytimg.com/vi/hulbbKgctSM/hqdefault.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
+### [Un Día Trabajando como INGENIERO DE SOFTWARE (en remoto)](https://www.youtube.com/watch?v=u_lN_tVSSaI)
+[![Un Día Trabajando como INGENIERO DE SOFTWARE (en remoto)](https://i.ytimg.com/vi/u_lN_tVSSaI/hqdefault.jpg)](https://www.youtube.com/watch?v=u_lN_tVSSaI)
+### [Así Puedes Mejorar Tu Lógica de Programación](https://www.youtube.com/watch?v=hulbbKgctSM)
+[![Así Puedes Mejorar Tu Lógica de Programación](https://i.ytimg.com/vi/hulbbKgctSM/hqdefault.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
 ### [He Mejorado mi README (GitHub) Usando JavaScript (+GitHub Actions)](https://www.youtube.com/watch?v=qJqAlHhOmYA)
 [![He Mejorado mi README (GitHub) Usando JavaScript (+GitHub Actions)](https://i.ytimg.com/vi/qJqAlHhOmYA/hqdefault.jpg)](https://www.youtube.com/watch?v=qJqAlHhOmYA)
-### [Estos 3 Consejos MEJORARON mi CÓDIGO (y mi VIDA)](https://www.youtube.com/watch?v=Wi5nFJGYfRc)
-[![Estos 3 Consejos MEJORARON mi CÓDIGO (y mi VIDA)](https://i.ytimg.com/vi/Wi5nFJGYfRc/hqdefault.jpg)](https://www.youtube.com/watch?v=Wi5nFJGYfRc)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
