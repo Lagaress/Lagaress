@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [¿Has Perdido la MOTIVACIÓN para Programar?](https://www.youtube.com/watch?v=TWEUsTaijS4)
-[![¿Has Perdido la MOTIVACIÓN para Programar?](https://i.ytimg.com/vi/TWEUsTaijS4/hqdefault.jpg)](https://www.youtube.com/watch?v=TWEUsTaijS4)
+### [¿Merece la Pena Programar? Analizando SALARIOS en 2024](https://www.youtube.com/watch?v=q3SWP0CeHFo)
+[![¿Merece la Pena Programar? Analizando SALARIOS en 2024](https://i.ytimg.com/vi/q3SWP0CeHFo/hqdefault.jpg)](https://www.youtube.com/watch?v=q3SWP0CeHFo)
+### [Yo Tampoco Estoy Motivado para Programar](https://www.youtube.com/watch?v=TWEUsTaijS4)
+[![Yo Tampoco Estoy Motivado para Programar](https://i.ytimg.com/vi/TWEUsTaijS4/hqdefault.jpg)](https://www.youtube.com/watch?v=TWEUsTaijS4)
 ### [Estoicismo para Programadores (en 2024)](https://www.youtube.com/watch?v=x6ikAuKfdTg)
 [![Estoicismo para Programadores (en 2024)](https://i.ytimg.com/vi/x6ikAuKfdTg/hqdefault.jpg)](https://www.youtube.com/watch?v=x6ikAuKfdTg)
-### [Un Día COMPLETO Trabajando como PROGRAMADOR](https://www.youtube.com/watch?v=u_lN_tVSSaI)
-[![Un Día COMPLETO Trabajando como PROGRAMADOR](https://i.ytimg.com/vi/u_lN_tVSSaI/hqdefault.jpg)](https://www.youtube.com/watch?v=u_lN_tVSSaI)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
