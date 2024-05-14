@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [¿Merece la Pena Programar? Analizando SALARIOS en 2024](https://www.youtube.com/watch?v=q3SWP0CeHFo)
-[![¿Merece la Pena Programar? Analizando SALARIOS en 2024](https://i.ytimg.com/vi/q3SWP0CeHFo/hqdefault.jpg)](https://www.youtube.com/watch?v=q3SWP0CeHFo)
+### [7 RED FLAGS en Programación que DEBES EVITAR](https://www.youtube.com/watch?v=nBHCK7aQ9J4)
+[![7 RED FLAGS en Programación que DEBES EVITAR](https://i.ytimg.com/vi/nBHCK7aQ9J4/hqdefault.jpg)](https://www.youtube.com/watch?v=nBHCK7aQ9J4)
+### [¿Cuánto DINERO GANA un PROGRAMADOR en 2024?](https://www.youtube.com/watch?v=q3SWP0CeHFo)
+[![¿Cuánto DINERO GANA un PROGRAMADOR en 2024?](https://i.ytimg.com/vi/q3SWP0CeHFo/hqdefault.jpg)](https://www.youtube.com/watch?v=q3SWP0CeHFo)
 ### [Yo Tampoco Estoy Motivado para Programar](https://www.youtube.com/watch?v=TWEUsTaijS4)
 [![Yo Tampoco Estoy Motivado para Programar](https://i.ytimg.com/vi/TWEUsTaijS4/hqdefault.jpg)](https://www.youtube.com/watch?v=TWEUsTaijS4)
-### [Estoicismo para Programadores (en 2024)](https://www.youtube.com/watch?v=x6ikAuKfdTg)
-[![Estoicismo para Programadores (en 2024)](https://i.ytimg.com/vi/x6ikAuKfdTg/hqdefault.jpg)](https://www.youtube.com/watch?v=x6ikAuKfdTg)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
