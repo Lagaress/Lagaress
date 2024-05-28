@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [El backend es demasiado complicado...](https://www.youtube.com/watch?v=D6Q_a-ZvvEk)
+[![El backend es demasiado complicado...](https://i.ytimg.com/vi/D6Q_a-ZvvEk/hqdefault.jpg)](https://www.youtube.com/watch?v=D6Q_a-ZvvEk)
 ### [Soft Skills: Un Manual de Vida para Programadores](https://www.youtube.com/watch?v=wfHcveA6Yl8)
 [![Soft Skills: Un Manual de Vida para Programadores](https://i.ytimg.com/vi/wfHcveA6Yl8/hqdefault.jpg)](https://www.youtube.com/watch?v=wfHcveA6Yl8)
 ### [Evita Estos 7 ERRORES en Tu Código (RED FLAGS)](https://www.youtube.com/watch?v=nBHCK7aQ9J4)
 [![Evita Estos 7 ERRORES en Tu Código (RED FLAGS)](https://i.ytimg.com/vi/nBHCK7aQ9J4/hqdefault.jpg)](https://www.youtube.com/watch?v=nBHCK7aQ9J4)
-### [¿Cuánto DINERO GANA un PROGRAMADOR en 2024?](https://www.youtube.com/watch?v=q3SWP0CeHFo)
-[![¿Cuánto DINERO GANA un PROGRAMADOR en 2024?](https://i.ytimg.com/vi/q3SWP0CeHFo/hqdefault.jpg)](https://www.youtube.com/watch?v=q3SWP0CeHFo)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
