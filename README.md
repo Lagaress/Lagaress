@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [¿Qué Pasa si NO Usas &quot;await&quot; en JavaScript?](https://www.youtube.com/watch?v=hqKFacMzxc8)
-[![¿Qué Pasa si NO Usas &quot;await&quot; en JavaScript?](https://i.ytimg.com/vi/hqKFacMzxc8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqKFacMzxc8)
+### [10 NUEVOS Temas de VSCode que DEBES PROBAR en 2024](https://www.youtube.com/watch?v=zt6xzcU-gE4)
+[![10 NUEVOS Temas de VSCode que DEBES PROBAR en 2024](https://i.ytimg.com/vi/zt6xzcU-gE4/hqdefault.jpg)](https://www.youtube.com/watch?v=zt6xzcU-gE4)
+### [¿Qué Pasa si No Usas &quot;await&quot; en JavaScript?](https://www.youtube.com/watch?v=hqKFacMzxc8)
+[![¿Qué Pasa si No Usas &quot;await&quot; en JavaScript?](https://i.ytimg.com/vi/hqKFacMzxc8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqKFacMzxc8)
 ### [El backend es demasiado complicado...](https://www.youtube.com/watch?v=D6Q_a-ZvvEk)
 [![El backend es demasiado complicado...](https://i.ytimg.com/vi/D6Q_a-ZvvEk/hqdefault.jpg)](https://www.youtube.com/watch?v=D6Q_a-ZvvEk)
-### [Soft Skills: Un Manual de Vida para Programadores](https://www.youtube.com/watch?v=wfHcveA6Yl8)
-[![Soft Skills: Un Manual de Vida para Programadores](https://i.ytimg.com/vi/wfHcveA6Yl8/hqdefault.jpg)](https://www.youtube.com/watch?v=wfHcveA6Yl8)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
