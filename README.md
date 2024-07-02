@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [DEBES Saber Estos CONCEPTOS Como PROGAMADOR BACKEND](https://www.youtube.com/watch?v=RbWFJRHhF2M)
+[![DEBES Saber Estos CONCEPTOS Como PROGAMADOR BACKEND](https://i.ytimg.com/vi/RbWFJRHhF2M/hqdefault.jpg)](https://www.youtube.com/watch?v=RbWFJRHhF2M)
+### [He Creado mi Propia EXTENSIÓN DE VSCODE (desde cero)](https://www.youtube.com/watch?v=lp44hntKr34)
+[![He Creado mi Propia EXTENSIÓN DE VSCODE (desde cero)](https://i.ytimg.com/vi/lp44hntKr34/hqdefault.jpg)](https://www.youtube.com/watch?v=lp44hntKr34)
 ### [NO HAGAS ESTO Si Quieres Un Buen Portfolio (en Programación)](https://www.youtube.com/watch?v=QIoKDbbLJsA)
 [![NO HAGAS ESTO Si Quieres Un Buen Portfolio (en Programación)](https://i.ytimg.com/vi/QIoKDbbLJsA/hqdefault.jpg)](https://www.youtube.com/watch?v=QIoKDbbLJsA)
-### [Mejora tu VSCode: 10 Temas que TE VAN A ENAMORAR](https://www.youtube.com/watch?v=zt6xzcU-gE4)
-[![Mejora tu VSCode: 10 Temas que TE VAN A ENAMORAR](https://i.ytimg.com/vi/zt6xzcU-gE4/hqdefault.jpg)](https://www.youtube.com/watch?v=zt6xzcU-gE4)
-### [¿Qué Pasa si No Usas &quot;await&quot; en JavaScript?](https://www.youtube.com/watch?v=hqKFacMzxc8)
-[![¿Qué Pasa si No Usas &quot;await&quot; en JavaScript?](https://i.ytimg.com/vi/hqKFacMzxc8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqKFacMzxc8)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
