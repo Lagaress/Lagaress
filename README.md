@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [137.593€ al Año por Programar con Este Lenguaje...](https://www.youtube.com/watch?v=X0wE82Bd7sI)
-[![137.593€ al Año por Programar con Este Lenguaje...](https://i.ytimg.com/vi/X0wE82Bd7sI/hqdefault.jpg)](https://www.youtube.com/watch?v=X0wE82Bd7sI)
+### [El Error de Windows que Destrozó 8.5M de Ordenadores](https://www.youtube.com/watch?v=Xh_PQe3QBJA)
+[![El Error de Windows que Destrozó 8.5M de Ordenadores](https://i.ytimg.com/vi/Xh_PQe3QBJA/hqdefault.jpg)](https://www.youtube.com/watch?v=Xh_PQe3QBJA)
+### [Estos Son los Lenguajes de Programación MEJOR PAGADOS (este año)](https://www.youtube.com/watch?v=X0wE82Bd7sI)
+[![Estos Son los Lenguajes de Programación MEJOR PAGADOS (este año)](https://i.ytimg.com/vi/X0wE82Bd7sI/hqdefault.jpg)](https://www.youtube.com/watch?v=X0wE82Bd7sI)
 ### [La programación es demasiado complicada...](https://www.youtube.com/watch?v=ILjLIGb13j8)
 [![La programación es demasiado complicada...](https://i.ytimg.com/vi/ILjLIGb13j8/hqdefault.jpg)](https://www.youtube.com/watch?v=ILjLIGb13j8)
-### [Esto Aprendería del BACKEND (si pudiera volver a empezar)](https://www.youtube.com/watch?v=RbWFJRHhF2M)
-[![Esto Aprendería del BACKEND (si pudiera volver a empezar)](https://i.ytimg.com/vi/RbWFJRHhF2M/hqdefault.jpg)](https://www.youtube.com/watch?v=RbWFJRHhF2M)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
