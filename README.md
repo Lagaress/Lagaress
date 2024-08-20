@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Así Se Desarrolla Software en Una Startup (desde cero)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
+[![Así Se Desarrolla Software en Una Startup (desde cero)](https://i.ytimg.com/vi/p7ykQ26ckeU/hqdefault.jpg)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
+### [Mira Este Vídeo ANTES de APRENDER A PROGRAMAR](https://www.youtube.com/watch?v=XOvcuRkiJ8M)
+[![Mira Este Vídeo ANTES de APRENDER A PROGRAMAR](https://i.ytimg.com/vi/XOvcuRkiJ8M/hqdefault.jpg)](https://www.youtube.com/watch?v=XOvcuRkiJ8M)
 ### [Optimiza tu Código en Minutos: 7 Técnicas Básicas](https://www.youtube.com/watch?v=KUiKzclxnUc)
 [![Optimiza tu Código en Minutos: 7 Técnicas Básicas](https://i.ytimg.com/vi/KUiKzclxnUc/hqdefault.jpg)](https://www.youtube.com/watch?v=KUiKzclxnUc)
-### [PEORES FORMAS de Conseguir un Trabajo en Programación](https://www.youtube.com/watch?v=-mc5tuqlF20)
-[![PEORES FORMAS de Conseguir un Trabajo en Programación](https://i.ytimg.com/vi/-mc5tuqlF20/hqdefault.jpg)](https://www.youtube.com/watch?v=-mc5tuqlF20)
-### [Lo que NO TE CONTARON del DESASTRE de WINDOWS &amp; CROWDSTRIKE](https://www.youtube.com/watch?v=Xh_PQe3QBJA)
-[![Lo que NO TE CONTARON del DESASTRE de WINDOWS &amp; CROWDSTRIKE](https://i.ytimg.com/vi/Xh_PQe3QBJA/hqdefault.jpg)](https://www.youtube.com/watch?v=Xh_PQe3QBJA)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
