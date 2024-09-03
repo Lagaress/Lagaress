@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Cómo Conseguir Trabajo en Programación (SIN EXPERIENCIA)](https://www.youtube.com/watch?v=kjyluB9t-24)
+[![Cómo Conseguir Trabajo en Programación (SIN EXPERIENCIA)](https://i.ytimg.com/vi/kjyluB9t-24/hqdefault.jpg)](https://www.youtube.com/watch?v=kjyluB9t-24)
 ### [Así Se Desarrolla Software en Una Startup (desde cero)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
 [![Así Se Desarrolla Software en Una Startup (desde cero)](https://i.ytimg.com/vi/p7ykQ26ckeU/hqdefault.jpg)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
 ### [Mira Este Vídeo ANTES de APRENDER A PROGRAMAR](https://www.youtube.com/watch?v=XOvcuRkiJ8M)
 [![Mira Este Vídeo ANTES de APRENDER A PROGRAMAR](https://i.ytimg.com/vi/XOvcuRkiJ8M/hqdefault.jpg)](https://www.youtube.com/watch?v=XOvcuRkiJ8M)
-### [Optimiza tu Código en Minutos: 7 Técnicas Básicas](https://www.youtube.com/watch?v=KUiKzclxnUc)
-[![Optimiza tu Código en Minutos: 7 Técnicas Básicas](https://i.ytimg.com/vi/KUiKzclxnUc/hqdefault.jpg)](https://www.youtube.com/watch?v=KUiKzclxnUc)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
