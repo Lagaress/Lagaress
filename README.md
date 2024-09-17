@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Lo que NADIE me Dijo para Trabajar como BACKEND](https://www.youtube.com/watch?v=sw5CBll5v7Y)
+[![Lo que NADIE me Dijo para Trabajar como BACKEND](https://i.ytimg.com/vi/sw5CBll5v7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=sw5CBll5v7Y)
 ### [¿Adiós VSCode? Este es mi Nuevo EDITOR DE CÓDIGO (con IA)](https://www.youtube.com/watch?v=3NCZ66o_GXo)
 [![¿Adiós VSCode? Este es mi Nuevo EDITOR DE CÓDIGO (con IA)](https://i.ytimg.com/vi/3NCZ66o_GXo/hqdefault.jpg)](https://www.youtube.com/watch?v=3NCZ66o_GXo)
 ### [5 Consejos que me Hicieron Conseguir TRABAJO como PROGRAMADOR](https://www.youtube.com/watch?v=kjyluB9t-24)
 [![5 Consejos que me Hicieron Conseguir TRABAJO como PROGRAMADOR](https://i.ytimg.com/vi/kjyluB9t-24/hqdefault.jpg)](https://www.youtube.com/watch?v=kjyluB9t-24)
-### [Así Se Desarrolla Software en Una Startup (desde cero)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
-[![Así Se Desarrolla Software en Una Startup (desde cero)](https://i.ytimg.com/vi/p7ykQ26ckeU/hqdefault.jpg)](https://www.youtube.com/watch?v=p7ykQ26ckeU)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
