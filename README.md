@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [El Síndrome del Ímpostor en Programación](https://www.youtube.com/watch?v=gKpmCkXglbU)
-[![El Síndrome del Ímpostor en Programación](https://i.ytimg.com/vi/gKpmCkXglbU/hqdefault.jpg)](https://www.youtube.com/watch?v=gKpmCkXglbU)
+### [2 AÑOS Trabajando como Programador: LA REALIDAD](https://www.youtube.com/watch?v=y-t1sz0xe4U)
+[![2 AÑOS Trabajando como Programador: LA REALIDAD](https://i.ytimg.com/vi/y-t1sz0xe4U/hqdefault.jpg)](https://www.youtube.com/watch?v=y-t1sz0xe4U)
+### [El Síndrome del Impostor en Programación...](https://www.youtube.com/watch?v=gKpmCkXglbU)
+[![El Síndrome del Impostor en Programación...](https://i.ytimg.com/vi/gKpmCkXglbU/hqdefault.jpg)](https://www.youtube.com/watch?v=gKpmCkXglbU)
 ### [Lo que NADIE me Dijo para Trabajar como BACKEND](https://www.youtube.com/watch?v=sw5CBll5v7Y)
 [![Lo que NADIE me Dijo para Trabajar como BACKEND](https://i.ytimg.com/vi/sw5CBll5v7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=sw5CBll5v7Y)
-### [¿Adiós VSCode? Este es mi Nuevo EDITOR DE CÓDIGO (con IA)](https://www.youtube.com/watch?v=3NCZ66o_GXo)
-[![¿Adiós VSCode? Este es mi Nuevo EDITOR DE CÓDIGO (con IA)](https://i.ytimg.com/vi/3NCZ66o_GXo/hqdefault.jpg)](https://www.youtube.com/watch?v=3NCZ66o_GXo)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
