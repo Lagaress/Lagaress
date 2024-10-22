@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [¿Qué Hace REALMENTE un DEVOPS en 2024?](https://www.youtube.com/watch?v=GLk6znmq7AY)
-[![¿Qué Hace REALMENTE un DEVOPS en 2024?](https://i.ytimg.com/vi/GLk6znmq7AY/hqdefault.jpg)](https://www.youtube.com/watch?v=GLk6znmq7AY)
+### [Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
+[![Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://i.ytimg.com/vi/nrnZj1Gt_2A/hqdefault.jpg)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
+### [¿Qué es DevOps? Todo lo Que Deberías Saber](https://www.youtube.com/watch?v=GLk6znmq7AY)
+[![¿Qué es DevOps? Todo lo Que Deberías Saber](https://i.ytimg.com/vi/GLk6znmq7AY/hqdefault.jpg)](https://www.youtube.com/watch?v=GLk6znmq7AY)
 ### [Cómo Acelerar tu CRECIMIENTO COMO PROGRAMADOR](https://www.youtube.com/watch?v=spzCxYh9XUE)
 [![Cómo Acelerar tu CRECIMIENTO COMO PROGRAMADOR](https://i.ytimg.com/vi/spzCxYh9XUE/hqdefault.jpg)](https://www.youtube.com/watch?v=spzCxYh9XUE)
-### [Mi Segundo Año como Íngeniero de Software (en 10 minutos)](https://www.youtube.com/watch?v=y-t1sz0xe4U)
-[![Mi Segundo Año como Íngeniero de Software (en 10 minutos)](https://i.ytimg.com/vi/y-t1sz0xe4U/hqdefault.jpg)](https://www.youtube.com/watch?v=y-t1sz0xe4U)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
