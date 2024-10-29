@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Mejora tu Programación en Minutos: 7 Técnicas Básicas](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
+[![Mejora tu Programación en Minutos: 7 Técnicas Básicas](https://i.ytimg.com/vi/PIOlNW3I9uQ/hqdefault.jpg)](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
 ### [Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
 [![Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://i.ytimg.com/vi/nrnZj1Gt_2A/hqdefault.jpg)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
 ### [¿Qué es DevOps? Todo lo Que Deberías Saber](https://www.youtube.com/watch?v=GLk6znmq7AY)
 [![¿Qué es DevOps? Todo lo Que Deberías Saber](https://i.ytimg.com/vi/GLk6znmq7AY/hqdefault.jpg)](https://www.youtube.com/watch?v=GLk6znmq7AY)
-### [Cómo Acelerar tu CRECIMIENTO COMO PROGRAMADOR](https://www.youtube.com/watch?v=spzCxYh9XUE)
-[![Cómo Acelerar tu CRECIMIENTO COMO PROGRAMADOR](https://i.ytimg.com/vi/spzCxYh9XUE/hqdefault.jpg)](https://www.youtube.com/watch?v=spzCxYh9XUE)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
