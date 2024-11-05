@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Mejora tu Programación en Minutos: 7 Técnicas Básicas](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
-[![Mejora tu Programación en Minutos: 7 Técnicas Básicas](https://i.ytimg.com/vi/PIOlNW3I9uQ/hqdefault.jpg)](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
+### [Así Ha Cambiado la Programación en 2024](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
+[![Así Ha Cambiado la Programación en 2024](https://i.ytimg.com/vi/jFb9_Bdo3wU/hqdefault.jpg)](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
+### [Mejora tu Programación Rápido: 7 Técnicas](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
+[![Mejora tu Programación Rápido: 7 Técnicas](https://i.ytimg.com/vi/PIOlNW3I9uQ/hqdefault.jpg)](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
 ### [Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
 [![Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://i.ytimg.com/vi/nrnZj1Gt_2A/hqdefault.jpg)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
-### [¿Qué es DevOps? Todo lo Que Deberías Saber](https://www.youtube.com/watch?v=GLk6znmq7AY)
-[![¿Qué es DevOps? Todo lo Que Deberías Saber](https://i.ytimg.com/vi/GLk6znmq7AY/hqdefault.jpg)](https://www.youtube.com/watch?v=GLk6znmq7AY)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
