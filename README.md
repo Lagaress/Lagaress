@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Así Ha Cambiado la Programación en 2024](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
-[![Así Ha Cambiado la Programación en 2024](https://i.ytimg.com/vi/jFb9_Bdo3wU/hqdefault.jpg)](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
+### [si me das 7 minutos, te ahorro 2 años de programación](https://www.youtube.com/watch?v=8lPERlr5GNo)
+[![si me das 7 minutos, te ahorro 2 años de programación](https://i.ytimg.com/vi/8lPERlr5GNo/hqdefault.jpg)](https://www.youtube.com/watch?v=8lPERlr5GNo)
+### [La programación está cambiando...](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
+[![La programación está cambiando...](https://i.ytimg.com/vi/jFb9_Bdo3wU/hqdefault.jpg)](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
 ### [Mejora tu Programación Rápido: 7 Técnicas](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
 [![Mejora tu Programación Rápido: 7 Técnicas](https://i.ytimg.com/vi/PIOlNW3I9uQ/hqdefault.jpg)](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
-### [Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
-[![Elige ESTE LENGUAJE para Empezar como BACKEND (en 2024)](https://i.ytimg.com/vi/nrnZj1Gt_2A/hqdefault.jpg)](https://www.youtube.com/watch?v=nrnZj1Gt_2A)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
