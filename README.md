@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Ya nadie quiere programar...](https://www.youtube.com/watch?v=gOLSfLoS-90)
+[![Ya nadie quiere programar...](https://i.ytimg.com/vi/gOLSfLoS-90/hqdefault.jpg)](https://www.youtube.com/watch?v=gOLSfLoS-90)
 ### [si me das 7 minutos, te ahorro 2 años de programación](https://www.youtube.com/watch?v=8lPERlr5GNo)
 [![si me das 7 minutos, te ahorro 2 años de programación](https://i.ytimg.com/vi/8lPERlr5GNo/hqdefault.jpg)](https://www.youtube.com/watch?v=8lPERlr5GNo)
 ### [La programación está cambiando...](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
 [![La programación está cambiando...](https://i.ytimg.com/vi/jFb9_Bdo3wU/hqdefault.jpg)](https://www.youtube.com/watch?v=jFb9_Bdo3wU)
-### [Mejora tu Programación Rápido: 7 Técnicas](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
-[![Mejora tu Programación Rápido: 7 Técnicas](https://i.ytimg.com/vi/PIOlNW3I9uQ/hqdefault.jpg)](https://www.youtube.com/watch?v=PIOlNW3I9uQ)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
