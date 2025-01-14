@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Este Vídeo Te Hará Mejorar Rápido en Programación](https://www.youtube.com/watch?v=eFO_c7Kk5hI)
+[![Este Vídeo Te Hará Mejorar Rápido en Programación](https://i.ytimg.com/vi/eFO_c7Kk5hI/hqdefault.jpg)](https://www.youtube.com/watch?v=eFO_c7Kk5hI)
 ### [2024 Me Ha Hecho Mejor Programador](https://www.youtube.com/watch?v=Q8b2XO2xpkE)
 [![2024 Me Ha Hecho Mejor Programador](https://i.ytimg.com/vi/Q8b2XO2xpkE/hqdefault.jpg)](https://www.youtube.com/watch?v=Q8b2XO2xpkE)
 ### [Me Infiltro en la Academia de BettaTech (pagando)](https://www.youtube.com/watch?v=YVwnGYs57bY)
 [![Me Infiltro en la Academia de BettaTech (pagando)](https://i.ytimg.com/vi/YVwnGYs57bY/hqdefault.jpg)](https://www.youtube.com/watch?v=YVwnGYs57bY)
-### [Las mentiras de la programación...](https://www.youtube.com/watch?v=npnnt1H5WyU)
-[![Las mentiras de la programación...](https://i.ytimg.com/vi/npnnt1H5WyU/hqdefault.jpg)](https://www.youtube.com/watch?v=npnnt1H5WyU)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
