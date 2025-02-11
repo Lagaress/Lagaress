@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Si estás pensando en ser Programador, TIENES que ver ESTO](https://www.youtube.com/watch?v=Jhrhgrokx0s)
+[![Si estás pensando en ser Programador, TIENES que ver ESTO](https://i.ytimg.com/vi/Jhrhgrokx0s/hqdefault.jpg)](https://www.youtube.com/watch?v=Jhrhgrokx0s)
+### [Mi Setup (realista) para Programar en 2025](https://www.youtube.com/watch?v=JkFYCm79Ytc)
+[![Mi Setup (realista) para Programar en 2025](https://i.ytimg.com/vi/JkFYCm79Ytc/hqdefault.jpg)](https://www.youtube.com/watch?v=JkFYCm79Ytc)
 ### [Esto te ahorrará años de programación](https://www.youtube.com/watch?v=E7Tf1ahEIfs)
 [![Esto te ahorrará años de programación](https://i.ytimg.com/vi/E7Tf1ahEIfs/hqdefault.jpg)](https://www.youtube.com/watch?v=E7Tf1ahEIfs)
-### [Programar Era DÍFICIL Hasta que Aprendí Estas 5 Cosas…](https://www.youtube.com/watch?v=swldw6WTmGs)
-[![Programar Era DÍFICIL Hasta que Aprendí Estas 5 Cosas…](https://i.ytimg.com/vi/swldw6WTmGs/hqdefault.jpg)](https://www.youtube.com/watch?v=swldw6WTmGs)
-### [Cómo Hacer de 2025 Tu MEJOR AÑO en Programación](https://www.youtube.com/watch?v=eFO_c7Kk5hI)
-[![Cómo Hacer de 2025 Tu MEJOR AÑO en Programación](https://i.ytimg.com/vi/eFO_c7Kk5hI/hqdefault.jpg)](https://www.youtube.com/watch?v=eFO_c7Kk5hI)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
