@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [NO BUSQUES TRABAJO como PROGRAMADOR Hasta VER ESTO](https://www.youtube.com/watch?v=sblCqOPN9_U)
+[![NO BUSQUES TRABAJO como PROGRAMADOR Hasta VER ESTO](https://i.ytimg.com/vi/sblCqOPN9_U/hqdefault.jpg)](https://www.youtube.com/watch?v=sblCqOPN9_U)
 ### [Cómo Aprendería a Programar RÁPIDO (Si Empezase de Cero)](https://www.youtube.com/watch?v=C4gs9ipeQjQ)
 [![Cómo Aprendería a Programar RÁPIDO (Si Empezase de Cero)](https://i.ytimg.com/vi/C4gs9ipeQjQ/hqdefault.jpg)](https://www.youtube.com/watch?v=C4gs9ipeQjQ)
 ### [Aprende ESTRUCTURAS DE DATOS en 10 Minutos](https://www.youtube.com/watch?v=s4nZDvuvGR0)
 [![Aprende ESTRUCTURAS DE DATOS en 10 Minutos](https://i.ytimg.com/vi/s4nZDvuvGR0/hqdefault.jpg)](https://www.youtube.com/watch?v=s4nZDvuvGR0)
-### [Si estás pensando en ser Programador, TIENES que ver ESTO](https://www.youtube.com/watch?v=Jhrhgrokx0s)
-[![Si estás pensando en ser Programador, TIENES que ver ESTO](https://i.ytimg.com/vi/Jhrhgrokx0s/hqdefault.jpg)](https://www.youtube.com/watch?v=Jhrhgrokx0s)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
