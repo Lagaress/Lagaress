@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Probé el Vibe Coding... Y Tenemos Que Hablar](https://www.youtube.com/watch?v=PsrOI-xqUQU)
+[![Probé el Vibe Coding... Y Tenemos Que Hablar](https://i.ytimg.com/vi/PsrOI-xqUQU/hqdefault.jpg)](https://www.youtube.com/watch?v=PsrOI-xqUQU)
 ### [Los mitos de la programación...](https://www.youtube.com/watch?v=holJVrCQSDA)
 [![Los mitos de la programación...](https://i.ytimg.com/vi/holJVrCQSDA/hqdefault.jpg)](https://www.youtube.com/watch?v=holJVrCQSDA)
 ### [Cómo Lancé MI PRIMER SaaS en MENOS de 12 HORAS (y funciona)](https://www.youtube.com/watch?v=WwvE0iMOLJg)
 [![Cómo Lancé MI PRIMER SaaS en MENOS de 12 HORAS (y funciona)](https://i.ytimg.com/vi/WwvE0iMOLJg/hqdefault.jpg)](https://www.youtube.com/watch?v=WwvE0iMOLJg)
-### [El 97% de los Programadores Juniors SON INÚTILES](https://www.youtube.com/watch?v=HZyHktoeTeY)
-[![El 97% de los Programadores Juniors SON INÚTILES](https://i.ytimg.com/vi/HZyHktoeTeY/hqdefault.jpg)](https://www.youtube.com/watch?v=HZyHktoeTeY)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
