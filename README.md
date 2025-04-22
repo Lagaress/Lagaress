@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Hackeé mi cerebro y ahora NO PUEDO dejar de programar](https://www.youtube.com/watch?v=JJJ0K6q_kU0)
+[![Hackeé mi cerebro y ahora NO PUEDO dejar de programar](https://i.ytimg.com/vi/JJJ0K6q_kU0/hqdefault.jpg)](https://www.youtube.com/watch?v=JJJ0K6q_kU0)
 ### [La VERDAD tras 30 DÍAS Programando con el MacBook Pro M4 Pro](https://www.youtube.com/watch?v=x7yBViQnLDY)
 [![La VERDAD tras 30 DÍAS Programando con el MacBook Pro M4 Pro](https://i.ytimg.com/vi/x7yBViQnLDY/hqdefault.jpg)](https://www.youtube.com/watch?v=x7yBViQnLDY)
 ### [Probé el Vibe Coding... Y Tenemos Que Hablar](https://www.youtube.com/watch?v=PsrOI-xqUQU)
 [![Probé el Vibe Coding... Y Tenemos Que Hablar](https://i.ytimg.com/vi/PsrOI-xqUQU/hqdefault.jpg)](https://www.youtube.com/watch?v=PsrOI-xqUQU)
-### [Los mitos de la programación...](https://www.youtube.com/watch?v=holJVrCQSDA)
-[![Los mitos de la programación...](https://i.ytimg.com/vi/holJVrCQSDA/hqdefault.jpg)](https://www.youtube.com/watch?v=holJVrCQSDA)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
