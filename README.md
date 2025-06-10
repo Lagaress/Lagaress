@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Mi Setup REAL para Programar con el MacBook Pro M4 Pro](https://www.youtube.com/watch?v=6fX5gwgGbuE)
+[![Mi Setup REAL para Programar con el MacBook Pro M4 Pro](https://i.ytimg.com/vi/6fX5gwgGbuE/hqdefault.jpg)](https://www.youtube.com/watch?v=6fX5gwgGbuE)
 ### [la peor mentalidad para programar...](https://www.youtube.com/watch?v=6I5XZMK1qy0)
 [![la peor mentalidad para programar...](https://i.ytimg.com/vi/6I5XZMK1qy0/hqdefault.jpg)](https://www.youtube.com/watch?v=6I5XZMK1qy0)
 ### [Pensé que sabía programar… hasta que vi esto](https://www.youtube.com/watch?v=YSfqCPdtDYk)
 [![Pensé que sabía programar… hasta que vi esto](https://i.ytimg.com/vi/YSfqCPdtDYk/hqdefault.jpg)](https://www.youtube.com/watch?v=YSfqCPdtDYk)
-### [EL ERROR que comete el 93% de los que intentan APRENDER a PROGRAMAR](https://www.youtube.com/watch?v=EHarWWK3-Ag)
-[![EL ERROR que comete el 93% de los que intentan APRENDER a PROGRAMAR](https://i.ytimg.com/vi/EHarWWK3-Ag/hqdefault.jpg)](https://www.youtube.com/watch?v=EHarWWK3-Ag)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
