@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [es aburrido, pero así conseguí trabajo como programador](https://www.youtube.com/watch?v=vAQQt_50FJM)
+[![es aburrido, pero así conseguí trabajo como programador](https://i.ytimg.com/vi/vAQQt_50FJM/hqdefault.jpg)](https://www.youtube.com/watch?v=vAQQt_50FJM)
 ### [48h Programando: Mi Fin de Semana como Programador](https://www.youtube.com/watch?v=NTvzO9clQug)
 [![48h Programando: Mi Fin de Semana como Programador](https://i.ytimg.com/vi/NTvzO9clQug/hqdefault.jpg)](https://www.youtube.com/watch?v=NTvzO9clQug)
 ### [No quería programar. Ahora no puedo parar](https://www.youtube.com/watch?v=PjN1F-1bo1Y)
 [![No quería programar. Ahora no puedo parar](https://i.ytimg.com/vi/PjN1F-1bo1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=PjN1F-1bo1Y)
-### [Mira esto antes de rendirte como programador](https://www.youtube.com/watch?v=Vy7L3tuhjl8)
-[![Mira esto antes de rendirte como programador](https://i.ytimg.com/vi/Vy7L3tuhjl8/hqdefault.jpg)](https://www.youtube.com/watch?v=Vy7L3tuhjl8)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
