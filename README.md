@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [PEORES y MEJORES ÁREAS DE PROGRAMACIÓN (2025) | TIER LIST](https://www.youtube.com/watch?v=2xayhkcQLZA)
+[![PEORES y MEJORES ÁREAS DE PROGRAMACIÓN (2025) | TIER LIST](https://i.ytimg.com/vi/2xayhkcQLZA/hqdefault.jpg)](https://www.youtube.com/watch?v=2xayhkcQLZA)
 ### [es aburrido, pero así conseguí trabajo como programador](https://www.youtube.com/watch?v=vAQQt_50FJM)
 [![es aburrido, pero así conseguí trabajo como programador](https://i.ytimg.com/vi/vAQQt_50FJM/hqdefault.jpg)](https://www.youtube.com/watch?v=vAQQt_50FJM)
 ### [48h Programando: Mi Fin de Semana como Programador](https://www.youtube.com/watch?v=NTvzO9clQug)
 [![48h Programando: Mi Fin de Semana como Programador](https://i.ytimg.com/vi/NTvzO9clQug/hqdefault.jpg)](https://www.youtube.com/watch?v=NTvzO9clQug)
-### [No quería programar. Ahora no puedo parar](https://www.youtube.com/watch?v=PjN1F-1bo1Y)
-[![No quería programar. Ahora no puedo parar](https://i.ytimg.com/vi/PjN1F-1bo1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=PjN1F-1bo1Y)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
