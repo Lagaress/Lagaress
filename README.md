@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [5 Cosas que Deberías Aprender Como Programador en 2025](https://www.youtube.com/watch?v=KP3MqaLj3fk)
+[![5 Cosas que Deberías Aprender Como Programador en 2025](https://i.ytimg.com/vi/KP3MqaLj3fk/hqdefault.jpg)](https://www.youtube.com/watch?v=KP3MqaLj3fk)
 ### [Los estudiantes de programación necesitan escuchar esto](https://www.youtube.com/watch?v=_4r30CqodGw)
 [![Los estudiantes de programación necesitan escuchar esto](https://i.ytimg.com/vi/_4r30CqodGw/hqdefault.jpg)](https://www.youtube.com/watch?v=_4r30CqodGw)
 ### [CRISIS en Programación: Programadores Sin Trabajo](https://www.youtube.com/watch?v=jDpBVi71CQ8)
 [![CRISIS en Programación: Programadores Sin Trabajo](https://i.ytimg.com/vi/jDpBVi71CQ8/hqdefault.jpg)](https://www.youtube.com/watch?v=jDpBVi71CQ8)
-### [PEORES y MEJORES ÁREAS DE PROGRAMACIÓN (2025) | TIER LIST](https://www.youtube.com/watch?v=2xayhkcQLZA)
-[![PEORES y MEJORES ÁREAS DE PROGRAMACIÓN (2025) | TIER LIST](https://i.ytimg.com/vi/2xayhkcQLZA/hqdefault.jpg)](https://www.youtube.com/watch?v=2xayhkcQLZA)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
