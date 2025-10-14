@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Full Stack: La Estafa Más Grande de la Programación](https://www.youtube.com/watch?v=uyKedAj6GrY)
+[![Full Stack: La Estafa Más Grande de la Programación](https://i.ytimg.com/vi/uyKedAj6GrY/hqdefault.jpg)](https://www.youtube.com/watch?v=uyKedAj6GrY)
 ### [Por qué la programación ya no es un trabajo soñado](https://www.youtube.com/watch?v=MnouRGOJAJo)
 [![Por qué la programación ya no es un trabajo soñado](https://i.ytimg.com/vi/MnouRGOJAJo/hqdefault.jpg)](https://www.youtube.com/watch?v=MnouRGOJAJo)
 ### [La VERDAD del MacBook Pro M4 Pro para Programar | 6 Meses Después](https://www.youtube.com/watch?v=0Tbv5WHX1Ao)
 [![La VERDAD del MacBook Pro M4 Pro para Programar | 6 Meses Después](https://i.ytimg.com/vi/0Tbv5WHX1Ao/hqdefault.jpg)](https://www.youtube.com/watch?v=0Tbv5WHX1Ao)
-### [5 Cosas que Deberías Aprender Como Programador en 2025](https://www.youtube.com/watch?v=KP3MqaLj3fk)
-[![5 Cosas que Deberías Aprender Como Programador en 2025](https://i.ytimg.com/vi/KP3MqaLj3fk/hqdefault.jpg)](https://www.youtube.com/watch?v=KP3MqaLj3fk)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
