@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Un Vídeo… Y NUNCA PODRÁS Dejar de PROGRAMAR](https://www.youtube.com/watch?v=7MBl0cLhUFw)
+[![Un Vídeo… Y NUNCA PODRÁS Dejar de PROGRAMAR](https://i.ytimg.com/vi/7MBl0cLhUFw/hqdefault.jpg)](https://www.youtube.com/watch?v=7MBl0cLhUFw)
 ### [Por qué ser programador junior en 2025 es una broma](https://www.youtube.com/watch?v=-lAfHfqhCRE)
 [![Por qué ser programador junior en 2025 es una broma](https://i.ytimg.com/vi/-lAfHfqhCRE/hqdefault.jpg)](https://www.youtube.com/watch?v=-lAfHfqhCRE)
 ### [Verdades de programación que NADIE me dijo en 2025…](https://www.youtube.com/watch?v=ha6oD6gRfbE)
 [![Verdades de programación que NADIE me dijo en 2025…](https://i.ytimg.com/vi/ha6oD6gRfbE/hqdefault.jpg)](https://www.youtube.com/watch?v=ha6oD6gRfbE)
-### [Full Stack: La Estafa Más Grande de la Programación](https://www.youtube.com/watch?v=uyKedAj6GrY)
-[![Full Stack: La Estafa Más Grande de la Programación](https://i.ytimg.com/vi/uyKedAj6GrY/hqdefault.jpg)](https://www.youtube.com/watch?v=uyKedAj6GrY)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
