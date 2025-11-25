@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Por qué trabajar en Big Tech se ha convertido en una estafa](https://www.youtube.com/watch?v=OahJRErIAJQ)
+[![Por qué trabajar en Big Tech se ha convertido en una estafa](https://i.ytimg.com/vi/OahJRErIAJQ/hqdefault.jpg)](https://www.youtube.com/watch?v=OahJRErIAJQ)
 ### [Es aburrido, pero así pasé de programador junior a mid](https://www.youtube.com/watch?v=Xn5yez1_qt4)
 [![Es aburrido, pero así pasé de programador junior a mid](https://i.ytimg.com/vi/Xn5yez1_qt4/hqdefault.jpg)](https://www.youtube.com/watch?v=Xn5yez1_qt4)
 ### [Un Vídeo… Y NUNCA PODRÁS Dejar de PROGRAMAR](https://www.youtube.com/watch?v=7MBl0cLhUFw)
 [![Un Vídeo… Y NUNCA PODRÁS Dejar de PROGRAMAR](https://i.ytimg.com/vi/7MBl0cLhUFw/hqdefault.jpg)](https://www.youtube.com/watch?v=7MBl0cLhUFw)
-### [Por qué ser programador junior en 2025 es una broma](https://www.youtube.com/watch?v=-lAfHfqhCRE)
-[![Por qué ser programador junior en 2025 es una broma](https://i.ytimg.com/vi/-lAfHfqhCRE/hqdefault.jpg)](https://www.youtube.com/watch?v=-lAfHfqhCRE)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
