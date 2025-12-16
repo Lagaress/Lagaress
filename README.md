@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Dame 12 Minutos y NADIE Creerá Que Eres Junior](https://www.youtube.com/watch?v=Nk8GtgDWV5A)
+[![Dame 12 Minutos y NADIE Creerá Que Eres Junior](https://i.ytimg.com/vi/Nk8GtgDWV5A/hqdefault.jpg)](https://www.youtube.com/watch?v=Nk8GtgDWV5A)
 ### [30 Días Haciendo Esto y DUPLICARÁS Tu Progreso en Programación](https://www.youtube.com/watch?v=CJckKCG9eBs)
 [![30 Días Haciendo Esto y DUPLICARÁS Tu Progreso en Programación](https://i.ytimg.com/vi/CJckKCG9eBs/hqdefault.jpg)](https://www.youtube.com/watch?v=CJckKCG9eBs)
 ### [Lo Que Te Piden Como Programador Junior NO ES NORMAL](https://www.youtube.com/watch?v=eX294KzSBqM)
 [![Lo Que Te Piden Como Programador Junior NO ES NORMAL](https://i.ytimg.com/vi/eX294KzSBqM/hqdefault.jpg)](https://www.youtube.com/watch?v=eX294KzSBqM)
-### [Trabajar en Big Tech Se Ha Vuelto Un Infierno](https://www.youtube.com/watch?v=OahJRErIAJQ)
-[![Trabajar en Big Tech Se Ha Vuelto Un Infierno](https://i.ytimg.com/vi/OahJRErIAJQ/hqdefault.jpg)](https://www.youtube.com/watch?v=OahJRErIAJQ)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
