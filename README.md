@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [por qué ser programador en 2026 APESTA](https://www.youtube.com/watch?v=ZFFbd-7vemc)
+[![por qué ser programador en 2026 APESTA](https://i.ytimg.com/vi/ZFFbd-7vemc/hqdefault.jpg)](https://www.youtube.com/watch?v=ZFFbd-7vemc)
 ### [Destruí Cookie Clicker con 50 Líneas De Código](https://www.youtube.com/watch?v=gt9PcotsxZ8)
 [![Destruí Cookie Clicker con 50 Líneas De Código](https://i.ytimg.com/vi/gt9PcotsxZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=gt9PcotsxZ8)
 ### [PEORES y MEJORES LENGUAJES DE PROGRAMACIÓN para 2026 | TIER LIST](https://www.youtube.com/watch?v=E6o_ShjEXt8)
 [![PEORES y MEJORES LENGUAJES DE PROGRAMACIÓN para 2026 | TIER LIST](https://i.ytimg.com/vi/E6o_ShjEXt8/hqdefault.jpg)](https://www.youtube.com/watch?v=E6o_ShjEXt8)
-### [Me daba PEREZA programar. Ahora NO PUEDO PARAR](https://www.youtube.com/watch?v=RA1v1ZoJ1jU)
-[![Me daba PEREZA programar. Ahora NO PUEDO PARAR](https://i.ytimg.com/vi/RA1v1ZoJ1jU/hqdefault.jpg)](https://www.youtube.com/watch?v=RA1v1ZoJ1jU)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
