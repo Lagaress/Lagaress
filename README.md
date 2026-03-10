@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [$2.368/mes con una app (lo que NO te dicen)](https://www.youtube.com/watch?v=1fCSzOWSs5E)
+[![$2.368/mes con una app (lo que NO te dicen)](https://i.ytimg.com/vi/1fCSzOWSs5E/hqdefault.jpg)](https://www.youtube.com/watch?v=1fCSzOWSs5E)
 ### [Dame 15 Minutos y la IA NUNCA Te Quitará el Trabajo](https://www.youtube.com/watch?v=2owRkOSAjtk)
 [![Dame 15 Minutos y la IA NUNCA Te Quitará el Trabajo](https://i.ytimg.com/vi/2owRkOSAjtk/hqdefault.jpg)](https://www.youtube.com/watch?v=2owRkOSAjtk)
 ### [Mi Setup DEFINITIVO para Programar en 2026](https://www.youtube.com/watch?v=JVol6dUtLR8)
 [![Mi Setup DEFINITIVO para Programar en 2026](https://i.ytimg.com/vi/JVol6dUtLR8/hqdefault.jpg)](https://www.youtube.com/watch?v=JVol6dUtLR8)
-### [Perdí 3 Años Programando. Esto Lo Cambió Todo](https://www.youtube.com/watch?v=lt6JDwFGRTY)
-[![Perdí 3 Años Programando. Esto Lo Cambió Todo](https://i.ytimg.com/vi/lt6JDwFGRTY/hqdefault.jpg)](https://www.youtube.com/watch?v=lt6JDwFGRTY)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
