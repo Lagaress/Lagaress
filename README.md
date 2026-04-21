@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [El Vibe Coding es una TRAMPA](https://www.youtube.com/watch?v=VBWcrvoS_tM)
+[![El Vibe Coding es una TRAMPA](https://i.ytimg.com/vi/VBWcrvoS_tM/hqdefault.jpg)](https://www.youtube.com/watch?v=VBWcrvoS_tM)
 ### [Crear Software ya NO Vale NADA](https://www.youtube.com/watch?v=94PpwF9TT5I)
 [![Crear Software ya NO Vale NADA](https://i.ytimg.com/vi/94PpwF9TT5I/hqdefault.jpg)](https://www.youtube.com/watch?v=94PpwF9TT5I)
 ### [Reemplazar Programadores por IA Está Saliendo MUY MAL](https://www.youtube.com/watch?v=8fPUM1msyK4)
 [![Reemplazar Programadores por IA Está Saliendo MUY MAL](https://i.ytimg.com/vi/8fPUM1msyK4/hqdefault.jpg)](https://www.youtube.com/watch?v=8fPUM1msyK4)
-### [La RUTINA DE DOPAMINA que me hizo ADICTO a PROGRAMAR](https://www.youtube.com/watch?v=2Y-gsX3GNdk)
-[![La RUTINA DE DOPAMINA que me hizo ADICTO a PROGRAMAR](https://i.ytimg.com/vi/2Y-gsX3GNdk/hqdefault.jpg)](https://www.youtube.com/watch?v=2Y-gsX3GNdk)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
