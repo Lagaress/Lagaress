@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Programar en 2026 ya NO es Programar](https://www.youtube.com/watch?v=f4DDq16d_Is)
+[![Programar en 2026 ya NO es Programar](https://i.ytimg.com/vi/f4DDq16d_Is/hqdefault.jpg)](https://www.youtube.com/watch?v=f4DDq16d_Is)
 ### [Los Despidos por IA Son UNA ESTAFA](https://www.youtube.com/watch?v=ySniF7avJgE)
 [![Los Despidos por IA Son UNA ESTAFA](https://i.ytimg.com/vi/ySniF7avJgE/hqdefault.jpg)](https://www.youtube.com/watch?v=ySniF7avJgE)
 ### [Programar con IA es una BURBUJA (y está explotando)](https://www.youtube.com/watch?v=US4YDTL1x-0)
 [![Programar con IA es una BURBUJA (y está explotando)](https://i.ytimg.com/vi/US4YDTL1x-0/hqdefault.jpg)](https://www.youtube.com/watch?v=US4YDTL1x-0)
-### [Crearon una IA TAN Peligrosa que NO Pueden Soltarla](https://www.youtube.com/watch?v=hMWeP_s0bqQ)
-[![Crearon una IA TAN Peligrosa que NO Pueden Soltarla](https://i.ytimg.com/vi/hMWeP_s0bqQ/hqdefault.jpg)](https://www.youtube.com/watch?v=hMWeP_s0bqQ)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
