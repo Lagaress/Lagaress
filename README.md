@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Programar con IA en 2026 ya NO Compensa](https://www.youtube.com/watch?v=1JEQ4Sv0WS0)
+[![Programar con IA en 2026 ya NO Compensa](https://i.ytimg.com/vi/1JEQ4Sv0WS0/hqdefault.jpg)](https://www.youtube.com/watch?v=1JEQ4Sv0WS0)
+### [La GRAN MENTIRA de la IA reemplazando juniors (y la prueba)](https://www.youtube.com/watch?v=XrMrM3dEOOg)
+[![La GRAN MENTIRA de la IA reemplazando juniors (y la prueba)](https://i.ytimg.com/vi/XrMrM3dEOOg/hqdefault.jpg)](https://www.youtube.com/watch?v=XrMrM3dEOOg)
 ### [Programar en 2026 ya NO es Programar](https://www.youtube.com/watch?v=f4DDq16d_Is)
 [![Programar en 2026 ya NO es Programar](https://i.ytimg.com/vi/f4DDq16d_Is/hqdefault.jpg)](https://www.youtube.com/watch?v=f4DDq16d_Is)
-### [Los Despidos por IA Son UNA ESTAFA](https://www.youtube.com/watch?v=ySniF7avJgE)
-[![Los Despidos por IA Son UNA ESTAFA](https://i.ytimg.com/vi/ySniF7avJgE/hqdefault.jpg)](https://www.youtube.com/watch?v=ySniF7avJgE)
-### [Programar con IA es una BURBUJA (y está explotando)](https://www.youtube.com/watch?v=US4YDTL1x-0)
-[![Programar con IA es una BURBUJA (y está explotando)](https://i.ytimg.com/vi/US4YDTL1x-0/hqdefault.jpg)](https://www.youtube.com/watch?v=US4YDTL1x-0)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
