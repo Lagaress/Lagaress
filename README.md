@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Me Costó +999 Horas Programando con IA Darme Cuenta de Esto](https://www.youtube.com/watch?v=UazXDdiTgNI)
+[![Me Costó +999 Horas Programando con IA Darme Cuenta de Esto](https://i.ytimg.com/vi/UazXDdiTgNI/hqdefault.jpg)](https://www.youtube.com/watch?v=UazXDdiTgNI)
 ### [Programar con IA en 2026 ya NO Compensa](https://www.youtube.com/watch?v=1JEQ4Sv0WS0)
 [![Programar con IA en 2026 ya NO Compensa](https://i.ytimg.com/vi/1JEQ4Sv0WS0/hqdefault.jpg)](https://www.youtube.com/watch?v=1JEQ4Sv0WS0)
 ### [La GRAN MENTIRA de la IA reemplazando juniors (y la prueba)](https://www.youtube.com/watch?v=XrMrM3dEOOg)
 [![La GRAN MENTIRA de la IA reemplazando juniors (y la prueba)](https://i.ytimg.com/vi/XrMrM3dEOOg/hqdefault.jpg)](https://www.youtube.com/watch?v=XrMrM3dEOOg)
-### [Programar en 2026 ya NO es Programar](https://www.youtube.com/watch?v=f4DDq16d_Is)
-[![Programar en 2026 ya NO es Programar](https://i.ytimg.com/vi/f4DDq16d_Is/hqdefault.jpg)](https://www.youtube.com/watch?v=f4DDq16d_Is)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
