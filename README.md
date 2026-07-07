@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Si estudias esto, la IA te reemplazará pronto](https://www.youtube.com/watch?v=m4KXldP15sA)
+[![Si estudias esto, la IA te reemplazará pronto](https://i.ytimg.com/vi/m4KXldP15sA/hqdefault.jpg)](https://www.youtube.com/watch?v=m4KXldP15sA)
 ### [¿Vale la Pena Estudiar Programación en 2026?](https://www.youtube.com/watch?v=dE8Dob9Nu5I)
 [![¿Vale la Pena Estudiar Programación en 2026?](https://i.ytimg.com/vi/dE8Dob9Nu5I/hqdefault.jpg)](https://www.youtube.com/watch?v=dE8Dob9Nu5I)
 ### [El Harness Engineering te Hace IRREEMPLAZABLE](https://www.youtube.com/watch?v=cqHvBAUs-bs)
 [![El Harness Engineering te Hace IRREEMPLAZABLE](https://i.ytimg.com/vi/cqHvBAUs-bs/hqdefault.jpg)](https://www.youtube.com/watch?v=cqHvBAUs-bs)
-### [Las Entrevistas de Programación son una BROMA en 2026](https://www.youtube.com/watch?v=JzUvKiwVY5M)
-[![Las Entrevistas de Programación son una BROMA en 2026](https://i.ytimg.com/vi/JzUvKiwVY5M/hqdefault.jpg)](https://www.youtube.com/watch?v=JzUvKiwVY5M)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
