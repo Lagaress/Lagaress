@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [El Backend Ha MUERTO: Esto es Lo Que Se Viene](https://www.youtube.com/watch?v=-trgBIcX2iw)
+[![El Backend Ha MUERTO: Esto es Lo Que Se Viene](https://i.ytimg.com/vi/-trgBIcX2iw/hqdefault.jpg)](https://www.youtube.com/watch?v=-trgBIcX2iw)
 ### [La GRAN ESTAFA de los 600.000 millones: Programar con IA](https://www.youtube.com/watch?v=7prSpy2wj9E)
 [![La GRAN ESTAFA de los 600.000 millones: Programar con IA](https://i.ytimg.com/vi/7prSpy2wj9E/hqdefault.jpg)](https://www.youtube.com/watch?v=7prSpy2wj9E)
 ### [Esforzarte está ARRUINANDO tu carrera](https://www.youtube.com/watch?v=fBVxEq6VCKM)
 [![Esforzarte está ARRUINANDO tu carrera](https://i.ytimg.com/vi/fBVxEq6VCKM/hqdefault.jpg)](https://www.youtube.com/watch?v=fBVxEq6VCKM)
-### [Si estudias esto, la IA te reemplazará pronto](https://www.youtube.com/watch?v=m4KXldP15sA)
-[![Si estudias esto, la IA te reemplazará pronto](https://i.ytimg.com/vi/m4KXldP15sA/hqdefault.jpg)](https://www.youtube.com/watch?v=m4KXldP15sA)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
