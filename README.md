@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Usas la IA como tu Abuela: 5 Cosas que lo Cambian Todo](https://www.youtube.com/watch?v=yP_bunmMrsw)
+[![Usas la IA como tu Abuela: 5 Cosas que lo Cambian Todo](https://i.ytimg.com/vi/yP_bunmMrsw/hqdefault.jpg)](https://www.youtube.com/watch?v=yP_bunmMrsw)
 ### [Nadie va a despedirte. Es peor.](https://www.youtube.com/watch?v=lqFG9lF2eec)
 [![Nadie va a despedirte. Es peor.](https://i.ytimg.com/vi/lqFG9lF2eec/hqdefault.jpg)](https://www.youtube.com/watch?v=lqFG9lF2eec)
 ### [Elon Musk: &quot;La Programación MORIRÁ en 5 Meses&quot;](https://www.youtube.com/watch?v=wBd99s6TbBk)
 [![Elon Musk: &quot;La Programación MORIRÁ en 5 Meses&quot;](https://i.ytimg.com/vi/wBd99s6TbBk/hqdefault.jpg)](https://www.youtube.com/watch?v=wBd99s6TbBk)
-### [El Backend Ha MUERTO: Esto es Lo Que Se Viene](https://www.youtube.com/watch?v=-trgBIcX2iw)
-[![El Backend Ha MUERTO: Esto es Lo Que Se Viene](https://i.ytimg.com/vi/-trgBIcX2iw/hqdefault.jpg)](https://www.youtube.com/watch?v=-trgBIcX2iw)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
