@@ -45,8 +45,8 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [La Programación Ha MUERTO: Esto Es Lo Que Se Viene](https://www.youtube.com/watch?v=CO-30rQDeFE)
-[![La Programación Ha MUERTO: Esto Es Lo Que Se Viene](https://i.ytimg.com/vi/CO-30rQDeFE/hqdefault.jpg)](https://www.youtube.com/watch?v=CO-30rQDeFE)
+### [Tu Roadmap Ha MUERTO: Qué Aprender en la Era IA](https://www.youtube.com/watch?v=Gu3eHkXWBiY)
+[![Tu Roadmap Ha MUERTO: Qué Aprender en la Era IA](https://i.ytimg.com/vi/Gu3eHkXWBiY/hqdefault.jpg)](https://www.youtube.com/watch?v=Gu3eHkXWBiY)
 ### [El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://www.youtube.com/watch?v=zUB19hoSFQk)
 [![El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://i.ytimg.com/vi/zUB19hoSFQk/hqdefault.jpg)](https://www.youtube.com/watch?v=zUB19hoSFQk)
 ### [Nadie Quiere Ser Programador. ¿Es el Fin?](https://www.youtube.com/watch?v=I9-xI9JOHhw)
