@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Tu Roadmap Ha MUERTO: Qué Aprender en la Era IA](https://www.youtube.com/watch?v=Gu3eHkXWBiY)
-[![Tu Roadmap Ha MUERTO: Qué Aprender en la Era IA](https://i.ytimg.com/vi/Gu3eHkXWBiY/hqdefault.jpg)](https://www.youtube.com/watch?v=Gu3eHkXWBiY)
+### [Ser SENIOR Ya No Significa Nada](https://www.youtube.com/watch?v=BNONvPRq0iM)
+[![Ser SENIOR Ya No Significa Nada](https://i.ytimg.com/vi/BNONvPRq0iM/hqdefault.jpg)](https://www.youtube.com/watch?v=BNONvPRq0iM)
+### [No Quieres Ser Programador. Hazme Caso](https://www.youtube.com/watch?v=3EYzdZyD6jk)
+[![No Quieres Ser Programador. Hazme Caso](https://i.ytimg.com/vi/3EYzdZyD6jk/hqdefault.jpg)](https://www.youtube.com/watch?v=3EYzdZyD6jk)
 ### [El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://www.youtube.com/watch?v=zUB19hoSFQk)
 [![El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://i.ytimg.com/vi/zUB19hoSFQk/hqdefault.jpg)](https://www.youtube.com/watch?v=zUB19hoSFQk)
-### [Nadie Quiere Ser Programador. ¿Es el Fin?](https://www.youtube.com/watch?v=I9-xI9JOHhw)
-[![Nadie Quiere Ser Programador. ¿Es el Fin?](https://i.ytimg.com/vi/I9-xI9JOHhw/hqdefault.jpg)](https://www.youtube.com/watch?v=I9-xI9JOHhw)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
