@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Ser SENIOR Ya No Significa Nada](https://www.youtube.com/watch?v=BNONvPRq0iM)
-[![Ser SENIOR Ya No Significa Nada](https://i.ytimg.com/vi/BNONvPRq0iM/hqdefault.jpg)](https://www.youtube.com/watch?v=BNONvPRq0iM)
-### [No Quieres Ser Programador. Hazme Caso](https://www.youtube.com/watch?v=3EYzdZyD6jk)
-[![No Quieres Ser Programador. Hazme Caso](https://i.ytimg.com/vi/3EYzdZyD6jk/hqdefault.jpg)](https://www.youtube.com/watch?v=3EYzdZyD6jk)
-### [El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://www.youtube.com/watch?v=zUB19hoSFQk)
-[![El Programador Junior Ha MUERTO: Esto es Lo Que Se Viene](https://i.ytimg.com/vi/zUB19hoSFQk/hqdefault.jpg)](https://www.youtube.com/watch?v=zUB19hoSFQk)
+### [Así Programo con IA Tras +500 Horas (SOLO CÓPIAME)](https://www.youtube.com/watch?v=AEWKiU3WRxU)
+[![Así Programo con IA Tras +500 Horas (SOLO CÓPIAME)](https://i.ytimg.com/vi/AEWKiU3WRxU/hqdefault.jpg)](https://www.youtube.com/watch?v=AEWKiU3WRxU)
+### [OpenAI Confiesa: Tu IA Te Miente](https://www.youtube.com/watch?v=ALp4iSHi9tY)
+[![OpenAI Confiesa: Tu IA Te Miente](https://i.ytimg.com/vi/ALp4iSHi9tY/hqdefault.jpg)](https://www.youtube.com/watch?v=ALp4iSHi9tY)
+### [Shopify ABANDONA React Native: No Cometas el Mismo Error](https://www.youtube.com/watch?v=W3ShME5suBM)
+[![Shopify ABANDONA React Native: No Cometas el Mismo Error](https://i.ytimg.com/vi/W3ShME5suBM/hqdefault.jpg)](https://www.youtube.com/watch?v=W3ShME5suBM)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
