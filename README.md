@@ -45,10 +45,10 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Así Programo con IA Tras +500 Horas (SOLO CÓPIAME)](https://www.youtube.com/watch?v=AEWKiU3WRxU)
-[![Así Programo con IA Tras +500 Horas (SOLO CÓPIAME)](https://i.ytimg.com/vi/AEWKiU3WRxU/hqdefault.jpg)](https://www.youtube.com/watch?v=AEWKiU3WRxU)
-### [OpenAI Confiesa: Tu IA Te Miente](https://www.youtube.com/watch?v=ALp4iSHi9tY)
-[![OpenAI Confiesa: Tu IA Te Miente](https://i.ytimg.com/vi/ALp4iSHi9tY/hqdefault.jpg)](https://www.youtube.com/watch?v=ALp4iSHi9tY)
+### [No Es Que No Haya Trabajo. Es Peor](https://www.youtube.com/watch?v=jwz_k-s-JgM)
+[![No Es Que No Haya Trabajo. Es Peor](https://i.ytimg.com/vi/jwz_k-s-JgM/hqdefault.jpg)](https://www.youtube.com/watch?v=jwz_k-s-JgM)
+### [Ya no disfruto programando (y sé por qué)](https://www.youtube.com/watch?v=7bvjpc-boLc)
+[![Ya no disfruto programando (y sé por qué)](https://i.ytimg.com/vi/7bvjpc-boLc/hqdefault.jpg)](https://www.youtube.com/watch?v=7bvjpc-boLc)
 ### [Shopify ABANDONA React Native: No Cometas el Mismo Error](https://www.youtube.com/watch?v=W3ShME5suBM)
 [![Shopify ABANDONA React Native: No Cometas el Mismo Error](https://i.ytimg.com/vi/W3ShME5suBM/hqdefault.jpg)](https://www.youtube.com/watch?v=W3ShME5suBM)
 <!-- YOUTUBE:END -->
