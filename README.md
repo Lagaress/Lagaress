@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [Ser Programador Hoy No Es Lo Que Te Vendieron](https://www.youtube.com/watch?v=Fkz1n6-LN_g)
+[![Ser Programador Hoy No Es Lo Que Te Vendieron](https://i.ytimg.com/vi/Fkz1n6-LN_g/hqdefault.jpg)](https://www.youtube.com/watch?v=Fkz1n6-LN_g)
+### [Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
+[![Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://i.ytimg.com/vi/xEy5GR1ezhA/hqdefault.jpg)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
 ### [No Es Que No Haya Trabajo. Es Peor](https://www.youtube.com/watch?v=jwz_k-s-JgM)
 [![No Es Que No Haya Trabajo. Es Peor](https://i.ytimg.com/vi/jwz_k-s-JgM/hqdefault.jpg)](https://www.youtube.com/watch?v=jwz_k-s-JgM)
-### [Ya no disfruto programando (y sé por qué)](https://www.youtube.com/watch?v=7bvjpc-boLc)
-[![Ya no disfruto programando (y sé por qué)](https://i.ytimg.com/vi/7bvjpc-boLc/hqdefault.jpg)](https://www.youtube.com/watch?v=7bvjpc-boLc)
-### [Shopify ABANDONA React Native: No Cometas el Mismo Error](https://www.youtube.com/watch?v=W3ShME5suBM)
-[![Shopify ABANDONA React Native: No Cometas el Mismo Error](https://i.ytimg.com/vi/W3ShME5suBM/hqdefault.jpg)](https://www.youtube.com/watch?v=W3ShME5suBM)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
