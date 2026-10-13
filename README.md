@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Ser Programador Hoy No Es Lo Que Te Vendieron](https://www.youtube.com/watch?v=Fkz1n6-LN_g)
-[![Ser Programador Hoy No Es Lo Que Te Vendieron](https://i.ytimg.com/vi/Fkz1n6-LN_g/hqdefault.jpg)](https://www.youtube.com/watch?v=Fkz1n6-LN_g)
+### [«Programar Ya Está Resuelto» es MENTIRA](https://www.youtube.com/watch?v=rsF691auxBw)
+[![«Programar Ya Está Resuelto» es MENTIRA](https://i.ytimg.com/vi/rsF691auxBw/hqdefault.jpg)](https://www.youtube.com/watch?v=rsF691auxBw)
+### [Los programadores NO son felices (y no es por la IA)](https://www.youtube.com/watch?v=0MOn0dWnMyk)
+[![Los programadores NO son felices (y no es por la IA)](https://i.ytimg.com/vi/0MOn0dWnMyk/hqdefault.jpg)](https://www.youtube.com/watch?v=0MOn0dWnMyk)
 ### [Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
 [![Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://i.ytimg.com/vi/xEy5GR1ezhA/hqdefault.jpg)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
-### [No Es Que No Haya Trabajo. Es Peor](https://www.youtube.com/watch?v=jwz_k-s-JgM)
-[![No Es Que No Haya Trabajo. Es Peor](https://i.ytimg.com/vi/jwz_k-s-JgM/hqdefault.jpg)](https://www.youtube.com/watch?v=jwz_k-s-JgM)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
