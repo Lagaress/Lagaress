@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [No necesitas una IA mejor. Necesitas entender ESTO](https://www.youtube.com/watch?v=X2lbyW7vSXM)
+[![No necesitas una IA mejor. Necesitas entender ESTO](https://i.ytimg.com/vi/X2lbyW7vSXM/hqdefault.jpg)](https://www.youtube.com/watch?v=X2lbyW7vSXM)
+### [Este Repositorio Rompió las Reglas del Software](https://www.youtube.com/watch?v=nWO7NSY84Po)
+[![Este Repositorio Rompió las Reglas del Software](https://i.ytimg.com/vi/nWO7NSY84Po/hqdefault.jpg)](https://www.youtube.com/watch?v=nWO7NSY84Po)
 ### [«Programar Ya Está Resuelto» es MENTIRA](https://www.youtube.com/watch?v=rsF691auxBw)
 [![«Programar Ya Está Resuelto» es MENTIRA](https://i.ytimg.com/vi/rsF691auxBw/hqdefault.jpg)](https://www.youtube.com/watch?v=rsF691auxBw)
-### [Los programadores NO son felices (y no es por la IA)](https://www.youtube.com/watch?v=0MOn0dWnMyk)
-[![Los programadores NO son felices (y no es por la IA)](https://i.ytimg.com/vi/0MOn0dWnMyk/hqdefault.jpg)](https://www.youtube.com/watch?v=0MOn0dWnMyk)
-### [Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
-[![Así Será Programar en 2027 (Esto Es Lo Que Se Viene)](https://i.ytimg.com/vi/xEy5GR1ezhA/hqdefault.jpg)](https://www.youtube.com/watch?v=xEy5GR1ezhA)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
