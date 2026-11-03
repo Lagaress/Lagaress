@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [Así es ser programador en 2026 (según 5.463 programadores)](https://www.youtube.com/watch?v=mNarYEs1Lec)
-[![Así es ser programador en 2026 (según 5.463 programadores)](https://i.ytimg.com/vi/mNarYEs1Lec/hqdefault.jpg)](https://www.youtube.com/watch?v=mNarYEs1Lec)
-### [Pagar por Trabajar: La Nueva TRAMPA en Tech](https://www.youtube.com/watch?v=cUeVPYjLjA4)
-[![Pagar por Trabajar: La Nueva TRAMPA en Tech](https://i.ytimg.com/vi/cUeVPYjLjA4/hqdefault.jpg)](https://www.youtube.com/watch?v=cUeVPYjLjA4)
-### [Creé una Web para Destruir el Ego de los Programadores](https://www.youtube.com/watch?v=odcfMAR47-4)
-[![Creé una Web para Destruir el Ego de los Programadores](https://i.ytimg.com/vi/odcfMAR47-4/hqdefault.jpg)](https://www.youtube.com/watch?v=odcfMAR47-4)
+### [Ya No Buscan Programadores. Buscan Otra Cosa](https://www.youtube.com/watch?v=f0OGjt1fWYc)
+[![Ya No Buscan Programadores. Buscan Otra Cosa](https://i.ytimg.com/vi/f0OGjt1fWYc/hqdefault.jpg)](https://www.youtube.com/watch?v=f0OGjt1fWYc)
+### [La Herramienta GRATIS que Uso Para Programar con IA](https://www.youtube.com/watch?v=m2dxkCaDaqE)
+[![La Herramienta GRATIS que Uso Para Programar con IA](https://i.ytimg.com/vi/m2dxkCaDaqE/hqdefault.jpg)](https://www.youtube.com/watch?v=m2dxkCaDaqE)
+### [¿Por Qué Estás Más CANSADO Si la IA Hace Tu Trabajo?](https://www.youtube.com/watch?v=1kCRhzqVyYo)
+[![¿Por Qué Estás Más CANSADO Si la IA Hace Tu Trabajo?](https://i.ytimg.com/vi/1kCRhzqVyYo/hqdefault.jpg)](https://www.youtube.com/watch?v=1kCRhzqVyYo)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
