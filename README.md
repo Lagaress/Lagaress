@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
+### [¿Cuánto tardas REALMENTE en ser programador con IA?](https://www.youtube.com/watch?v=414jOy4WGVE)
+[![¿Cuánto tardas REALMENTE en ser programador con IA?](https://i.ytimg.com/vi/414jOy4WGVE/hqdefault.jpg)](https://www.youtube.com/watch?v=414jOy4WGVE)
+### [Microsoft le Dio IA a 200.000 Empleados y No Salió Bien](https://www.youtube.com/watch?v=aSD9RhEoOTM)
+[![Microsoft le Dio IA a 200.000 Empleados y No Salió Bien](https://i.ytimg.com/vi/aSD9RhEoOTM/hqdefault.jpg)](https://www.youtube.com/watch?v=aSD9RhEoOTM)
 ### [Ya No Buscan Programadores. Buscan Otra Cosa](https://www.youtube.com/watch?v=f0OGjt1fWYc)
 [![Ya No Buscan Programadores. Buscan Otra Cosa](https://i.ytimg.com/vi/f0OGjt1fWYc/hqdefault.jpg)](https://www.youtube.com/watch?v=f0OGjt1fWYc)
-### [La Herramienta GRATIS que Uso Para Programar con IA](https://www.youtube.com/watch?v=m2dxkCaDaqE)
-[![La Herramienta GRATIS que Uso Para Programar con IA](https://i.ytimg.com/vi/m2dxkCaDaqE/hqdefault.jpg)](https://www.youtube.com/watch?v=m2dxkCaDaqE)
-### [¿Por Qué Estás Más CANSADO Si la IA Hace Tu Trabajo?](https://www.youtube.com/watch?v=1kCRhzqVyYo)
-[![¿Por Qué Estás Más CANSADO Si la IA Hace Tu Trabajo?](https://i.ytimg.com/vi/1kCRhzqVyYo/hqdefault.jpg)](https://www.youtube.com/watch?v=1kCRhzqVyYo)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
