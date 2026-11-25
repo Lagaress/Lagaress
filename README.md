@@ -45,12 +45,12 @@ I'm in love with communication and technology.
 
 ## 💻 Youtube 
 <!-- YOUTUBE:START -->
-### [La IA Programa Bien. Ese es El Problema...](https://www.youtube.com/watch?v=GCUAg0pQ4dM)
-[![La IA Programa Bien. Ese es El Problema...](https://i.ytimg.com/vi/GCUAg0pQ4dM/hqdefault.jpg)](https://www.youtube.com/watch?v=GCUAg0pQ4dM)
-### [Ya No Te Piden Programar. Te Piden ESTO](https://www.youtube.com/watch?v=pEtoo_7zsoI)
-[![Ya No Te Piden Programar. Te Piden ESTO](https://i.ytimg.com/vi/pEtoo_7zsoI/hqdefault.jpg)](https://www.youtube.com/watch?v=pEtoo_7zsoI)
-### [Así Programo con IA Cuando Nadie Me Paga](https://www.youtube.com/watch?v=pOPyxVvdv0A)
-[![Así Programo con IA Cuando Nadie Me Paga](https://i.ytimg.com/vi/pOPyxVvdv0A/hqdefault.jpg)](https://www.youtube.com/watch?v=pOPyxVvdv0A)
+### [Dame 7 Minutos y PROGRAMAR Volverá a Ser TU ADICCIÓN](https://www.youtube.com/watch?v=7nG3oxlz3Aw)
+[![Dame 7 Minutos y PROGRAMAR Volverá a Ser TU ADICCIÓN](https://i.ytimg.com/vi/7nG3oxlz3Aw/hqdefault.jpg)](https://www.youtube.com/watch?v=7nG3oxlz3Aw)
+### [Así Maté Mi Aplicación Sin Darme Cuenta](https://www.youtube.com/watch?v=mthH_B4Ka5w)
+[![Así Maté Mi Aplicación Sin Darme Cuenta](https://i.ytimg.com/vi/mthH_B4Ka5w/hqdefault.jpg)](https://www.youtube.com/watch?v=mthH_B4Ka5w)
+### [Dame 13 Minutos y Te Doy +1.000 Horas de Claude Code](https://www.youtube.com/watch?v=a1112ddCGz0)
+[![Dame 13 Minutos y Te Doy +1.000 Horas de Claude Code](https://i.ytimg.com/vi/a1112ddCGz0/hqdefault.jpg)](https://www.youtube.com/watch?v=a1112ddCGz0)
 <!-- YOUTUBE:END -->
 ## 📝 Medium 
 * [Want to become a better Developer? This is my plan to achieve it](https://medium.com/codex/want-to-become-a-better-developer-this-is-my-plan-to-achieve-it-1ec318f5200d)
